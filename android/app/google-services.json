@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "720020727891",
+    "firebase_url": "https://customerapps-11766-default-rtdb.firebaseio.com",
+    "project_id": "customerapps-11766",
+    "storage_bucket": "customerapps-11766.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720020727891:android:170f023811dfab66ac7ea6",
+        "android_client_info": {
+          "package_name": "com.parkme.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720020727891-9qc9pdb3nl8vttibglpgnf2060711l9p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv5lxqGGM6JywWIYtWZFxHtAavm-TYyI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720020727891-9qc9pdb3nl8vttibglpgnf2060711l9p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "720020727891-6025jovmcup0job8sftvqkolqp3729g6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.parkme.customer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720020727891:android:b2bcf277ed80618dac7ea6",
+        "android_client_info": {
+          "package_name": "com.parkme.watchman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720020727891-9qc9pdb3nl8vttibglpgnf2060711l9p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv5lxqGGM6JywWIYtWZFxHtAavm-TYyI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720020727891-9qc9pdb3nl8vttibglpgnf2060711l9p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "720020727891-6025jovmcup0job8sftvqkolqp3729g6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.parkme.customer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
